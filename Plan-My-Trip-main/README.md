@@ -3,7 +3,6 @@
 <p align="center">
   🚀 A comprehensive web application for students to plan budget-friendly trips using advanced AI technology, with intelligent itinerary generation and real-time weather data for <b>personalized travel experiences</b> and smart recommendations.
 </p>
-
 <p align="center">
   <a href="https://plan-my-trip-io.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge" alt="Live Demo"/>
@@ -385,7 +384,7 @@ cd frontend && rm -rf node_modules && npm install
 
 <div align="center">
 
-**👤 Abhishek Giri**  
+**👤 Kashish Sharma**  
 <a href="https://www.linkedin.com/in/abhishek-giri04/">
   <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn - Abhishek Giri"/>
 </a>  
