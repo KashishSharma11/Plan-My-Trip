@@ -375,28 +375,6 @@ cd frontend && rm -rf node_modules && npm install
 
 <br>
 
----  
-
-## 📞 Help & Contact  
-
-> 💬 *Got questions or need assistance with Plan My Trip?*  
-> We're here to help with technical support and collaboration!
-
-<div align="center">
-
-**👤 Kashish Sharma**  
-<a href="https://www.linkedin.com/in/abhishek-giri04/">
-  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn - Abhishek Giri"/>
-</a>  
-<a href="https://github.com/abhishekgiri04">
-  <img src="https://img.shields.io/badge/Follow%20on-GitHub-black?style=for-the-badge&logo=github" alt="GitHub - Abhishek Giri"/>
-</a>  
-<a href="https://t.me/AbhishekGiri7">
-  <img src="https://img.shields.io/badge/Chat%20on-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram - Abhishek Giri"/>
-</a>
-
-<br/>
-
 ---
 
 ## 📄 License
